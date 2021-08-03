@@ -1,10 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 21 13:55:07 2021
-Print the larges odd number of x, y or z
-@author: philip
-"""
+#!/usr/bin/env python
+# Print the larges odd number of x, y or z
 x = 2
 y = 3
 z = 4

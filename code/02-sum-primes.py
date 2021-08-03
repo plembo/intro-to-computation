@@ -1,11 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 22 12:40:53 2021
-Sum of primes more than 2 but less than 1000
-Counted number of primes found to validate operation
-@author: philip
-"""
+#!/usr/bin/env python
+# Sum of primes more than 2 but less than 1000
+# Counted number of primes found to validate operation
 start = 2
 finish = 1000
 
@@ -24,3 +19,4 @@ for num in range(start, finish):
 
 print(f'Number of primes between {start} and {finish} is {count}')
 print(f'Sum of those primes is {total}')
+Created on Thu Jul 22 12:40:53 2021

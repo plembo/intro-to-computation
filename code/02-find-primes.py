@@ -1,10 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 22 12:40:53 2021
-Find primes between 2 and 1000
-@author: philip
-"""
+#!/usr/bin/env python
+# Find primes between 2 and 1000
 start = 2
 finish = 1000
 

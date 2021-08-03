@@ -1,11 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 22 11:13:03 2021
-Ask user to input 10 integers and then print largest odd number entered. If
-no odds entered, it should print message to that effect.
-@author: philip
-"""
+#!/usr/bin/env python
+# Ask user to input 10 integers and then print largest odd number entered. If
+# no odds entered, it should print message to that effect.
 num_input = input('Enter 10 comma-separated integers, include some odd:')
 
 num_list = num_input.split(',')
