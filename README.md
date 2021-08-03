@@ -14,3 +14,8 @@ the math that they assume (I never got past sophmore geometry in high
 school -- and although I passed, probably shouldn't have). But it's important
 stuff to know, so I'm pushing through.
 
+Because I'm focused on learning the concepts, I'm shamelessly trawling the
+Internet for answers. So far, I've found that people on StackOverflow really
+like computer science puzzles. Of course they do. Surprisingly, many of them
+also have a knack for teaching as well.
+
