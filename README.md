@@ -4,7 +4,8 @@ Code and notes from working through the book:
 John V. Guttag. _Introduction to Computation and Programming Using Python_. 3rd ed., MIT Press, 2021.
 
 This is a terrific book for learning computer science concepts through
-python programming.
+python programming. Professor Guttag a great teacher and provides clear,
+concise examples for the concepts being taught.
 
 I am finding the "finger exercises" (small problems that are supposed to
 test understanding of the concepts being taught and some practical
